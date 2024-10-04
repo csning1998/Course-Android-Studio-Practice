@@ -2,15 +2,15 @@
 
 ## Disclaimer
 
-This repository contains an Android Studio project intended for educational purposes only. The content and code provided herein are shared in good faith for reference by my classmates and colleagues. By accessing and using this repository, you agree to the following terms:
+This repository contains an Android Studio project intended for educational purposes only. The content and code provided herein are shared in good faith for reference by my classmates. By accessing and using this repository, you agree to the following terms:
 
-1. **Use at Your Own Risk**: The author of this repository is not liable for any negative outcomes, such as academic penalties or loss of grades, resulting from the use or misuse of this project. Users should exercise caution and review the code independently before submission.
+1. **Use at Your Own Risk**: I ain't liable for any negative outcomes, such as academic penalties or loss of grades, resulting from the use or misuse of this project. Users should exercise caution and review the code independently before submission.
 
 2. **No Warranty**: The project is provided "as-is" without any warranty or guarantee of any kind, express or implied. This includes, but is not limited to, the suitability of the code for any particular purpose, completeness, or compliance with course requirements.
 
-3. **Academic Integrity**: By using this repository, you agree not to plagiarize or submit this code as your own work. Any copying or close derivation of this code for academic evaluation must comply with your institution’s academic integrity policies.
+3. **Academic Integrity**: By using this repository, you agree NOT TO plagiarize or submit this code as your own work. Any copying or close derivation of this code for academic evaluation must comply with your institution’s academic integrity policies.
 
-4. **Responsibility**: Users are fully responsible for their own use of this project and are encouraged to cite or reference the repository properly when necessary. The author disclaims all responsibility for any disputes or issues that arise from misuse or violation of academic guidelines.
+4. **Responsibility**: Users are FULLY RESPONSIBLE for their own use of this project and are encouraged to cite or reference the repository properly when necessary. The author disclaims all responsibility for any disputes or issues that arise from misuse or violation of academic guidelines.
 
 ## Project Setup Guide
 
